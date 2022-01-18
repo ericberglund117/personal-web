@@ -1,0 +1,31 @@
+.header-section {
+    background: black;
+    display: flex;
+    flex-direction: row-reverse;
+    color:white;
+}
+
+/* .introduction{
+    display: flex;
+    align-items: center;
+    height: 3em;
+} */
+
+/* .intro{
+    margin-right: .5em;
+    font-size: 1.5em;
+}
+
+.frontend{
+    margin-top: 0;
+}
+
+.buttons {
+    display: flex;
+  } */
+
+  /* .eb-logo{
+    width: 60%;
+    margin-top: 11px;
+    margin-left: 10px;
+  } */
